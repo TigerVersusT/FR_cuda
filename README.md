@@ -1,2 +1,2 @@
 # FR_wangtao
-a tool 
+CUDA implementation of fanctional calculus based total variational image enhancement algorithm
